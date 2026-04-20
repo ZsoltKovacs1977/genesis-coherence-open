@@ -1,0 +1,7 @@
+Task,Sponsor,Task Owner,Reviewer,Approver,Admin / Coordinator,Legal / Data Reviewer,Notes
+Define scope,A,R,C,I,C,,
+Set allowed AI use,C,R,C,A,I,C,
+Draft output,I,R,,I,,,
+Review output,I,C,A,I,I,C,Reviewer is accountable for the review step before any approval decision.
+Approve release or use,I,C,C,A,I,C,
+Store record and status,I,C,,I,R,,
