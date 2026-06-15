@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use Genesis Coherence Open, please cite it as below."
+title: "Genesis Coherence Open"
+version: "0.1.1"
+authors:
+  - family-names: "Kovacs"
+    given-names: "Zsolt"
+date-released: "2026-04-20"
+url: "https://github.com/ZsoltKovacs1977/genesis-coherence-open"
+repository-code: "https://github.com/ZsoltKovacs1977/genesis-coherence-open"
+license: "MIT"
+abstract: "A lightweight operating method for keeping human ownership, evidence review, approval boundaries, and accountability visible in bounded AI-assisted documentation and review workflows."
+keywords:
+  - AI governance
+  - human accountability
+  - AI-assisted workflows
+  - review workflows
+  - documentation governance

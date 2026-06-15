@@ -4,6 +4,25 @@ Genesis Coherence is a practical governance method for AI-assisted documentation
 
 It is designed for teams that want a simple operating layer around bounded AI-assisted work without treating the tool as the owner, approver, or decision-maker.
 
+## Start here
+
+Use this repository as a small method pack, not as enterprise software.
+
+1. Read `00_Pack_Overview.md`.
+2. Read `01_Core_Release_Docs/01_Generic_Role_Map.md`.
+3. Read `01_Core_Release_Docs/02_Generic_RACI_Template.md`.
+4. Open `02_Example_Packs/Internal_Documentation/01_Start_Here_Internal_Documentation_Pilot_Pack.md`.
+5. Test the method on one narrow internal documentation workflow.
+6. Keep AI-assisted drafts, evidence checks, reviews, approvals, and actions visibly separate.
+
+## Version note
+
+- Method release: **Genesis Coherence Open v0.1.1**
+- Package build: **v1.7**
+- Build date: **2026-04-20**
+
+The method release identifies the public version of Genesis Coherence Open. The package build identifies the packaging pass used to prepare this publishable release.
+
 ## Who it is for
 
 This release is for:
@@ -36,15 +55,9 @@ Genesis Coherence does not:
 - `02_Example_Packs/Internal_Documentation/` - a concrete internal documentation pilot pack
 - `03_License_and_Usage_Note.md` - short usage and reuse note
 - `04_Release_Notes_v0_1_1.md` - release scope and draft status
+- `LICENSE` - MIT License
+- `CITATION.cff` - citation metadata for GitHub and citation tools
 
-## How to start
-
-1. Read `00_Pack_Overview.md`.
-2. Read `01_Core_Release_Docs/01_Generic_Role_Map.md`.
-3. Read `01_Core_Release_Docs/02_Generic_RACI_Template.md`.
-4. Open `02_Example_Packs/Internal_Documentation/01_Start_Here_Internal_Documentation_Pilot_Pack.md`.
-5. Use one narrow internal documentation workflow.
-6. Log AI-assisted work and review outputs before use.
 
 ## What v0.1.1 includes
 
@@ -62,6 +75,19 @@ v0.1.1 does not include:
 - sector-specific legal guidance
 - model governance or enterprise-wide AI governance
 - a final control backbone for all organizational AI use
+
+
+## How to cite
+
+Suggested citation:
+
+Kovacs, Z. (2026). *Genesis Coherence Open* (Version 0.1.1). GitHub. https://github.com/ZsoltKovacs1977/genesis-coherence-open
+
+A machine-readable citation file is also provided in `CITATION.cff`.
+
+## License
+
+This repository is released under the MIT License. See `LICENSE`.
 
 ## Status
 
